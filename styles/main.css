@@ -4,6 +4,15 @@
   font-family: 'Anton', sans-serif;
   font-size: 1.3em;
 }
+/* Css de estilo para los titulos de las paginas intro, quien soy y que hago*/
+.titulos{
+  font-family: 'Abril Fatface', cursive;
+}
+/* Css de estilo para el listado de canciones mostrado en quien soy*/
+#canciones{
+  font-family: 'Lexend Tera', sans-serif;
+  font-size: 1.3em;
+}
 /* Css para la seccion intro de la pagina principal*/
 #intro {
   padding-top: 10em;
@@ -79,6 +88,7 @@
 /* Css para la seccion de los contenedores de quien soy y que hago de la pagina principal*/
 .contenedores{
   height: 22em;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 /* Css para el display de los content de la pagina principal*/
 .content{

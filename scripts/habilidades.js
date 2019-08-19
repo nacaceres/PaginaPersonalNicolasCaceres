@@ -1,7 +1,7 @@
 //Uso de estricto
 "use strict";
 //Arreglo constante que contiene mis habilidades
-const habilidades = ["Welcome2", "Hi2", "Sup dude2"];
+const habilidades = ["Conocimiento Alto en Java", "Conocimiento Alto en Python", "Conocimiento Medio en SQL","Conocimiento Medio en CSS","Conocimiento Medio en HTML","Guitarrista","Baterista"];
 //Contador para iterar sobre mis habilidades
 let contadorHab = 0;
 // Obtener el tag <h1> que va a mostrar mis habilidades mediante el DOM.

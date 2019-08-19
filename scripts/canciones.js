@@ -1,9 +1,9 @@
 //Uso de estricto
 "use strict";
 //Arreglo constante que contiene mis canciones favoritas
-const canciones = ["Welcome", "Hi", "Sup dude"];
+const canciones = ["Walk", "Chasing Cars", "Belief (Live in LA)","R U Mine?","Snap Out Of It","Mi suerte","Snow"];
 //Arreglo constante que contiene los links hacia mis canciones favoritas
-const links = ["https://www.youtube.com/watch?v=1btEYjhcIII","https://www.youtube.com/watch?v=OuWaE8UDKe8","https://www.youtube.com/watch?v=_obsnLp-v8o"];
+const links = ["https://www.youtube.com/watch?v=4PkcfQtibmU","https://www.youtube.com/watch?v=GemKqzILV4w","https://www.youtube.com/watch?v=QiFh26fwdSI","https://www.youtube.com/watch?v=ngzC_8zqInk","https://www.youtube.com/watch?v=1_O_T6Aq85E","https://www.youtube.com/watch?v=sfv0xWONROg","https://www.youtube.com/watch?v=ifXalt3MJtM"];
 //Contador para iterar sobre mis canciones favoritas
 let contadorCan = 0;
 //Obtener elag <a> que va a mostrar mis canciones favoritas mediante el DOM
