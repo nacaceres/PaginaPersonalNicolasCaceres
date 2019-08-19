@@ -22,7 +22,7 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:61em;
+  height:100vh;
   width:100%;
 }
 /* Css para la seccion quien soy de la pagina principal*/
@@ -35,9 +35,8 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:61em;
+  height:100vh;
   width:100%;
-  display: inline-block;
 }
 /* Css para la seccion que hago de la pagina principal*/
 #quehago{
@@ -49,9 +48,8 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:61em;
+  height:100vh;
   width:100%;
-  display: inline-block;
 }
 /* Css para la seccion logros de la pagina principal*/
 #logros{
@@ -63,9 +61,8 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:61em;
+  height:100vh;
   width:100%;
-  display: inline-block;
 }
 /* Css para la seccion contactos de la pagina principal*/
 #contacto{
@@ -77,9 +74,37 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height:61em;
+  height:100vh;
   width:100%;
-  display: inline-block;
+}
+/* Css para que la pagina sea responsive en todas las secciones*/
+@media only screen and (max-width: 768px) {
+  #intro{
+    height:auto;
+  }
+}
+@media only screen and (max-width: 595px) {
+  #quiensoy{
+     padding-top: 0em;
+    height:auto;
+  }
+}
+@media only screen and (max-width: 595px) {
+  #quehago{
+    padding-top: 0em;
+    height:auto;
+  }
+}
+@media only screen and (max-width: 557px) {
+  #logros{
+    padding-top: 0em;
+    height:auto;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #contacto{
+    height:auto;
+  }
 }
 /* Css para la seccion de la tarjeta de presentacion dentro de la intro de la pagina principal*/
 .tarpresentacion{
@@ -87,7 +112,6 @@
 }
 /* Css para la seccion de los contenedores de quien soy y que hago de la pagina principal*/
 .contenedores{
-  height: 22em;
   font-family: 'Source Sans Pro', sans-serif;
 }
 /* Css para el display de los content de la pagina principal*/
