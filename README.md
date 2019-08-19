@@ -1,7 +1,7 @@
 # PaginaPersonalNicolasCaceres
 El objetivo de este proyecto es crear mi página web personal, donde pueda mostrar de una forma agradable a una persona, quién soy, qué hago hoy en dia, cuáles han sido mis logros academicos y mostrar diferentes formas de contactarme. Además, otro objetivo planteado es hacer un pequeño proyecto para familiarizarme con tecnologias como: CSS, HTML, entre otras.
 
-
+![Screenshot Pag Web](https://github.com/nacaceres/PaginaPersonalNicolasCaceres/blob/master/data/images/Captura.png)
 
 # Tecnologias usadas
 * HTML
