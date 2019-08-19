@@ -95,8 +95,10 @@
   display: flex
 }
 
-
 /* Css para hacer las banderas ubicadas en la seccion mis logros de la pagina principal*/
+.ubcband{
+  vertical-align: bottom
+}
 .main-timeline10:after,.main-timeline10:before{
   content:"";
   display:block;
