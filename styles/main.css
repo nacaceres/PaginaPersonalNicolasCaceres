@@ -28,7 +28,8 @@
 /* Css para la seccion quien soy de la pagina principal*/
 #quiensoy{
   padding-top: 20em;
-  margin: : 0;
+  /* Se le fueron unos : extra */
+  margin: 0;
   border: 0;
   background: url("../data/images/segundaparte.jpg")no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -40,7 +41,8 @@
 }
 /* Css para la seccion que hago de la pagina principal*/
 #quehago{
-  margin: : 0;
+  /* Se le fueron unos : extra */
+  margin: 0;
   padding-top: 20em;
   border: 0;
   background: url("../data/images/terceraparte.jpg")no-repeat center center fixed;
@@ -53,7 +55,8 @@
 }
 /* Css para la seccion logros de la pagina principal*/
 #logros{
-  margin: : 0;
+  /* Se le fueron unos : extra */
+  margin: 0;
   padding-top: 20em;
   border: 0;
   background: url("../data/images/cuartaparte.jpg")no-repeat center center fixed;
@@ -66,7 +69,8 @@
 }
 /* Css para la seccion contactos de la pagina principal*/
 #contacto{
-  margin: : 0;
+  /* Se le fueron unos : extra */
+  margin: 0;
   padding-top: 8em;
   border: 0;
   background: url("../data/images/quintaparte.jpg")no-repeat center center fixed;
